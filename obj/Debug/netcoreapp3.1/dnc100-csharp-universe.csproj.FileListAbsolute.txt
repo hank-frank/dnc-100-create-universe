@@ -1,0 +1,10 @@
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/bin/Debug/netcoreapp3.1/dnc100-csharp-universe.deps.json
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/bin/Debug/netcoreapp3.1/dnc100-csharp-universe.runtimeconfig.json
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/bin/Debug/netcoreapp3.1/dnc100-csharp-universe.runtimeconfig.dev.json
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/bin/Debug/netcoreapp3.1/dnc100-csharp-universe.dll
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/bin/Debug/netcoreapp3.1/dnc100-csharp-universe.pdb
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/obj/Debug/netcoreapp3.1/dnc100-csharp-universe.csprojAssemblyReference.cache
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/obj/Debug/netcoreapp3.1/dnc100-csharp-universe.AssemblyInfoInputs.cache
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/obj/Debug/netcoreapp3.1/dnc100-csharp-universe.AssemblyInfo.cs
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/obj/Debug/netcoreapp3.1/dnc100-csharp-universe.dll
+/Users/henryfrank/Desktop/code/C-SHARP/dnc100-csharp-universe/obj/Debug/netcoreapp3.1/dnc100-csharp-universe.pdb
