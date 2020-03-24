@@ -1,22 +1,24 @@
 ﻿<Properties StartupConfiguration="{5D2987CE-697F-46DF-A3CE-554A33C0C8BF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Planet.cs">
     <Files>
-      <File FileName="Program.cs" Line="17" Column="1" />
-      <File FileName="Universe.cs" Line="16" Column="103" />
-      <File FileName="Galaxy.cs" Line="1" Column="1" />
+      <File FileName="Universe.cs" Line="23" Column="7" />
+      <File FileName="Program.cs" Line="40" Column="83" />
+      <File FileName="Galaxy.cs" Line="25" Column="1" />
+      <File FileName="Template.cs" Line="9" Column="29" />
+      <File FileName="SolarSystem.cs" Line="16" Column="6" />
+      <File FileName="Planet.cs" Line="20" Column="1" />
+      <File FileName="Star.cs" Line="18" Column="6" />
+      <File FileName="LifeForm.cs" Line="19" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dnc100-csharp-universe" expanded="True">
             <Node name="dnc100-csharp-universe" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Planet.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

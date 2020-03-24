@@ -1,34 +1,38 @@
 using System;
+using System.Collections.Generic;
 
 namespace dnc100_csharp_universe
 {
   class Universe
   {
-    private static object _universeName;
+    private static string _universeName;
 
     public Universe(string universeName)
     {
       _universeName = universeName;
     }
 
-    public string UniName()
+    public string GetName()
     {
       string message = $"Behold, the Universe {_universeName} has been birthed from your fertile loins!";
       return message;
     }
 
-    public string MakeGalaxy()
+    public Galaxy[] MakeChildren(int amt)
     {
-      Random random = new Random();
-      int rand = random.Next();
-      string randomNumberString = rand.ToString();
+      var galaxies = new List<Galaxy>();
 
-      Galaxy galaxy = new Galaxy(randomNumberString);
+      for (int i = 0; i < amt; i++)
+      {
+        Random random = new Random();
+        int rand = random.Next();
+        string randomNumberString = rand.ToString();
 
-      string galaxyName = galaxy.GalaxyName();
+       galaxies.Add(new Galaxy(randomNumberString));
+      }
 
-      return $"Behold, the Galaxy {galaxyName} has no also been birthed from your fertile loins.";
+      return galaxies.ToArray();
     }
-
-    }
+ 
+  }
 }
